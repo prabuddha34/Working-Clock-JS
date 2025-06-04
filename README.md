@@ -6,7 +6,11 @@ A simple and elegant digital clock built using **HTML**, **CSS**, and **JavaScri
 
 ## 📸 Preview
 
-![Digital Clock Preview](preview.png) <!-- Replace with your actual image filename or URL -->
+
+https://github.com/user-attachments/assets/87cd1c37-4add-46e5-b38f-0cf9191d971a
+
+
+
 
 ---
 
@@ -27,5 +31,4 @@ A simple and elegant digital clock built using **HTML**, **CSS**, and **JavaScri
 
 ---
 
-## 📁 Project Structure
 
